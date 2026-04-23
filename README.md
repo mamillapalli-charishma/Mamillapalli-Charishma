@@ -20,8 +20,6 @@ Currently, I am working on improving my portfolio by developing impactful projec
 
 ## 🛠️ Skills
 
-## 🛠️ Skills
-
 **Programming Languages:**  
 Python, SQL, JavaScript, HTML, CSS  
 **Machine Learning:**  
@@ -43,7 +41,7 @@ Creative Writing, Story Writing, Content Structuring
 
 ## 🚀 Projects
 
-🔹 **SMS Spam Classifier** *(TechSaksham Internship)*  
+🔹 **[SMS Spam Classifier]([https://github.com/mamillapalli-charishma/sms-spam-classifier])** *(TechSaksham Internship)*  
 - Built a machine learning model to classify messages as spam or ham  
 - Applied NLP techniques and data preprocessing  
 - Achieved high accuracy using classification algorithms  
@@ -51,7 +49,7 @@ Creative Writing, Story Writing, Content Structuring
 
 ---
 
-🔹 **Sentiment Analysis System** *(IBM SkillBuild Internship)*  
+🔹 **[Sentiment Analysis System]([https://github.com/mamillapalli-charishma/Sentiment_analysis])** *(IBM SkillBuild Internship)*  
 - Developed an NLP-based model to analyze user sentiments from text data  
 - Performed data cleaning, tokenization, and visualization  
 - Extracted insights from real-world datasets  
@@ -59,21 +57,23 @@ Creative Writing, Story Writing, Content Structuring
 
 ---
 
-🔹 **Customer Churn Prediction** *(DETERXITY Internship)*  
+🔹 **[Customer Churn Prediction]([https://github.com/mamillapalli-charishma/Churn-Prediction])** *(Dexterity Project)*  
 - Built a predictive model to identify potential customer churn  
 - Performed EDA and feature engineering on structured data  
-- Helped in understanding key factors affecting customer retention  
+- Identified key factors influencing customer retention  
 - Tech Stack: Python, Pandas, Scikit-learn, Power BI  
 
 ---
 
-🔹 **VisMinds – AI Content & Insights Platform**  
+🔹 **[VisMinds – AI Content & Insights Platform]([https://github.com/mamillapalli-charishma/VisMinds-ProtoType])**  
 - Developed a multi-feature AI platform for content creation and strategy  
 - Includes modules like Creative Assistant, Content Strategist, and Market Insights  
 - Designed an interactive dashboard UI for real-time content generation and analytics  
 - Built with the help of Antigravity tools and AI integrations  
-- Tech Stack: React, AI APIs, UI/UX Design 
+- Tech Stack: React, AI APIs, UI/UX Design  
 ---
+
+## 🏆 Achievements & Certifications
 
 🎓 **IBM SkillBuild Certification – AI & ML**  
 - Completed hands-on training in Machine Learning and NLP  
