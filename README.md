@@ -96,7 +96,7 @@ Creative Writing, Story Writing, Content Structuring
 ---
 
 ## 📌 Connect With Me
-📧 [Email](mailto:charishmamanogna@gmail.com) | 🔗 [LinkedIn]([https://www.linkedin.com/in/manogna-charishma/]) | 💻 [GitHub]https://[https://github.com/mamillapalli-charishma)  
+📧 [Email](mailto:charishmamanogna@gmail.com) | 🔗 [LinkedIn]([https://www.linkedin.com/in/manogna-charishma/]) | 💻 [GitHub]([https://github.com/mamillapalli-charishma])  
 
 ---
 
