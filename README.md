@@ -41,7 +41,7 @@ Creative Writing, Story Writing, Content Structuring
 
 ## 🚀 Projects
 
-🔹 **[SMS Spam Classifier]([https://github.com/mamillapalli-charishma/sms-spam-classifier])** *(TechSaksham Internship)*  
+🔹 **[SMS Spam Classifier](https://github.com/mamillapalli-charishma/sms-spam-classifier)** *(TechSaksham Internship)*  
 - Built a machine learning model to classify messages as spam or ham  
 - Applied NLP techniques and data preprocessing  
 - Achieved high accuracy using classification algorithms  
@@ -49,7 +49,7 @@ Creative Writing, Story Writing, Content Structuring
 
 ---
 
-🔹 **[Sentiment Analysis System]([https://github.com/mamillapalli-charishma/Sentiment_analysis])** *(IBM SkillBuild Internship)*  
+🔹 **[Sentiment Analysis System](https://github.com/mamillapalli-charishma/Sentiment_analysis)** *(IBM SkillBuild Internship)*  
 - Developed an NLP-based model to analyze user sentiments from text data  
 - Performed data cleaning, tokenization, and visualization  
 - Extracted insights from real-world datasets  
@@ -57,7 +57,7 @@ Creative Writing, Story Writing, Content Structuring
 
 ---
 
-🔹 **[Customer Churn Prediction]([https://github.com/mamillapalli-charishma/Churn-Prediction])** *(Dexterity Project)*  
+🔹 **[Customer Churn Prediction](https://github.com/mamillapalli-charishma/Churn-Prediction)** *(Dexterity Project)*  
 - Built a predictive model to identify potential customer churn  
 - Performed EDA and feature engineering on structured data  
 - Identified key factors influencing customer retention  
@@ -65,7 +65,7 @@ Creative Writing, Story Writing, Content Structuring
 
 ---
 
-🔹 **[VisMinds – AI Content & Insights Platform]([https://github.com/mamillapalli-charishma/VisMinds-ProtoType])**  
+🔹 **[VisMinds – AI Content & Insights Platform](https://github.com/mamillapalli-charishma/VisMinds-ProtoType)**  
 - Developed a multi-feature AI platform for content creation and strategy  
 - Includes modules like Creative Assistant, Content Strategist, and Market Insights  
 - Designed an interactive dashboard UI for real-time content generation and analytics  
@@ -96,7 +96,7 @@ Creative Writing, Story Writing, Content Structuring
 ---
 
 ## 📌 Connect With Me
-📧 [Email](mailto:charishmamanogna@gmail.com) | 🔗 [LinkedIn]([https://www.linkedin.com/in/manogna-charishma/]) | 💻 [GitHub]([https://github.com/mamillapalli-charishma])  
+📧 [Email](mailto:charishmamanogna@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/manogna-charishma/) | 💻 [GitHub](https://github.com/mamillapalli-charishma)  
 
 ---
 
