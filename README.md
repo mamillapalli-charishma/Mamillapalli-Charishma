@@ -4,7 +4,7 @@
 🎓 B.Tech CSE (AI & ML) | 🤖 Aspiring ML Engineer  
 📍 Andhra Pradesh, India  
 📧 charishmamanogna@gmail.com  
-🔗 LinkedIn:LinkedIn(https://www.linkedin.com/in/manogna-charishma/) 
+🔗 LinkedIn:[LinkedIn](https://www.linkedin.com/in/manogna-charishma/) 
 
 ---
 
