@@ -4,7 +4,7 @@
 🎓 B.Tech CSE (AI & ML) | 🤖 Aspiring ML Engineer  
 📍 Andhra Pradesh, India  
 📧 charishmamanogna@gmail.com  
-🔗 LinkedIn:https://www.linkedin.com/in/manogna-charishma/ 
+🔗 LinkedIn:(https://www.linkedin.com/in/manogna-charishma/) 
 
 ---
 
@@ -75,6 +75,8 @@ Creative Writing, Story Writing, Content Structuring
 ---
 
 ## 🏆 Achievements & Certifications
+
+- 🥈 2nd Place – Paper Presentation at SUNRISE 2K25 for research on Vision Transformers (ViT)
 
 🎓 **IBM SkillBuild Certification – AI & ML**  
 - Completed hands-on training in Machine Learning and NLP  
