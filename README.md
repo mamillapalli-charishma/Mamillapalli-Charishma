@@ -12,7 +12,7 @@ I am a B.Tech graduate in Computer Science with a specialization in Artificial I
 
 My work includes projects such as spam detection, sentiment analysis, and sales data analysis, where I applied machine learning techniques to extract insights and solve real-world problems. I have also worked on developing an AI-powered financial empowerment application with features like predictive analytics and expense tracking.
 
-I am interested in Machine Learning Engineer roles and focused on strengthening my skills in model development, data analysis, and building end-to-end intelligent systems.
+I am interested in Machine Learning Engineer roles as well as interested in research-oriented roles such as AI and ML Researcher. I am focused on strengthening my skills in model development, data analysis, and building end-to-end intelligent systems.
 
 Currently, I am working on improving my portfolio by developing impactful projects and gaining deeper expertise in applied AI.
 
@@ -100,4 +100,4 @@ Creative Writing, Story Writing, Content Structuring
 
 ---
 
-✨ *“Turning data into real-world impact.”*
+✨ *“Applying AI and data-driven approaches to solve real-world problems.”*
