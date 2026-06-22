@@ -86,7 +86,7 @@ Creative Writing, Story Writing, Content Structuring
 - Worked on an SMS Spam Classifier using Machine Learning  
 - Gained practical experience in NLP and model building  
 
-🎓 **VOIS (Vodafone Intelligent Solutions) Internship Certificate**  
+🎓 **Dexterity Internship Certificate**  
 - Completed training in Data Analytics and Churn Prediction  
 - Worked on customer data to analyze churn behavior  
 
